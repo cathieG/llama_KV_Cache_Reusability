@@ -14,6 +14,8 @@ This repository contains scripts for evaluating KV cache transfer between LLaMA 
 │   ├── run_transfer_baseline.py
 │   └── compute_metrics.py
 ├── outputs/
+│   ├── metrics_duplication.json
+│   └── metrics_zero_padding.json
 └── README.md
 ```
 
