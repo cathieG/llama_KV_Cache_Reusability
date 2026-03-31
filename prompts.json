@@ -1,0 +1,149 @@
+﻿{"prompt_id": 1, "category": "factual", "length": "short", "prompt": "The capital of France is"}
+{"prompt_id": 2, "category": "factual", "length": "long", "prompt": "France is a country in Europe known for its culture, cuisine, and history. It has several major cities including Lyon and Marseille. The capital of France is"}
+
+{"prompt_id": 3, "category": "factual", "length": "short", "prompt": "2 + 2 ="}
+{"prompt_id": 4, "category": "factual", "length": "long", "prompt": "Basic arithmetic is fundamental to mathematics. When performing addition, we combine numbers together. 2 + 2 ="}
+
+{"prompt_id": 5, "category": "factual", "length": "short", "prompt": "The largest planet in the solar system is"}
+{"prompt_id": 6, "category": "factual", "length": "long", "prompt": "Our solar system contains eight planets, each with unique characteristics. Some are rocky while others are gas giants. The largest planet in the solar system is"}
+
+{"prompt_id": 7, "category": "factual", "length": "short", "prompt": "The author of Pride and Prejudice is"}
+{"prompt_id": 8, "category": "factual", "length": "long", "prompt": "Pride and Prejudice is a classic novel of English literature published in the early 19th century. It explores themes of love and social class. The author of Pride and Prejudice is"}
+
+{"prompt_id": 9, "category": "factual", "length": "short", "prompt": "Water freezes at"}
+{"prompt_id": 10, "category": "factual", "length": "long", "prompt": "Water changes states depending on temperature and pressure. At standard atmospheric pressure, the freezing point of water is"}
+
+{"prompt_id": 11, "category": "factual", "length": "short", "prompt": "The chemical symbol for gold is"}
+{"prompt_id": 12, "category": "factual", "length": "long", "prompt": "Chemical elements are represented using symbols from the periodic table. These symbols are often derived from Latin names. The chemical symbol for gold is"}
+
+{"prompt_id": 13, "category": "factual", "length": "short", "prompt": "The square root of 16 is"}
+{"prompt_id": 14, "category": "factual", "length": "long", "prompt": "Square roots are numbers that multiply by themselves to give a target value. The square root of 16 is"}
+
+{"prompt_id": 15, "category": "factual", "length": "short", "prompt": "The boiling point of water in Celsius is"}
+{"prompt_id": 16, "category": "factual", "length": "long", "prompt": "Temperature determines the physical state of substances. At standard atmospheric pressure, the boiling point of water in Celsius is"}
+
+{"prompt_id": 17, "category": "factual", "length": "short", "prompt": "The currency of Japan is"}
+{"prompt_id": 18, "category": "factual", "length": "long", "prompt": "Different countries use different currencies for trade and commerce. The currency of Japan is"}
+
+{"prompt_id": 19, "category": "factual", "length": "short", "prompt": "The tallest mountain in the world is"}
+{"prompt_id": 20, "category": "factual", "length": "long", "prompt": "Mountains vary in height and location around the globe. The tallest mountain in the world is"}
+
+{"prompt_id": 21, "category": "factual", "length": "short", "prompt": "The fastest land animal is"}
+{"prompt_id": 22, "category": "factual", "length": "long", "prompt": "Animals have evolved various adaptations for speed and survival. The fastest land animal is"}
+
+{"prompt_id": 23, "category": "factual", "length": "short", "prompt": "The human heart has how many chambers?"}
+{"prompt_id": 24, "category": "factual", "length": "long", "prompt": "The human circulatory system includes a heart that pumps blood throughout the body. The human heart has how many chambers?"}
+
+{"prompt_id": 25, "category": "structured", "length": "short", "prompt": "List three primary colors:"}
+{"prompt_id": 26, "category": "structured", "length": "long", "prompt": "Colors are often categorized into primary, secondary, and tertiary groups. Primary colors are the base colors from which others are derived. List three primary colors:"}
+
+{"prompt_id": 27, "category": "structured", "length": "short", "prompt": "Translate 'hello' into French:"}
+{"prompt_id": 28, "category": "structured", "length": "long", "prompt": "Translation involves converting words from one language to another while preserving meaning. Translate 'hello' into French:"}
+
+{"prompt_id": 29, "category": "structured", "length": "short", "prompt": "The steps to boil water are:"}
+{"prompt_id": 30, "category": "structured", "length": "long", "prompt": "Boiling water is a basic cooking process that involves heating water until it reaches its boiling point. The steps to boil water are:"}
+
+{"prompt_id": 31, "category": "structured", "length": "short", "prompt": "In Python, a for loop looks like:"}
+{"prompt_id": 32, "category": "structured", "length": "long", "prompt": "Python is a programming language that uses indentation to define code blocks. One common control structure is the for loop. In Python, a for loop looks like:"}
+
+{"prompt_id": 33, "category": "structured", "length": "short", "prompt": "Name two mammals:"}
+{"prompt_id": 34, "category": "structured", "length": "long", "prompt": "Mammals are warm-blooded animals that typically have hair or fur and produce milk. Name two mammals:"}
+
+{"prompt_id": 35, "category": "structured", "length": "short", "prompt": "Write a synonym for 'happy':"}
+{"prompt_id": 36, "category": "structured", "length": "long", "prompt": "Synonyms are words that have similar meanings. They can be used to make writing more varied and expressive. Write a synonym for 'happy':"}
+
+{"prompt_id": 37, "category": "structured", "length": "short", "prompt": "List two programming languages:"}
+{"prompt_id": 38, "category": "structured", "length": "long", "prompt": "Programming languages are used to write instructions for computers. List two programming languages:"}
+
+{"prompt_id": 39, "category": "structured", "length": "short", "prompt": "Give an example of a fruit:"}
+{"prompt_id": 40, "category": "structured", "length": "long", "prompt": "Fruits are edible plant structures that contain seeds. Give an example of a fruit:"}
+
+{"prompt_id": 41, "category": "structured", "length": "short", "prompt": "Write a simple greeting message:"}
+{"prompt_id": 42, "category": "structured", "length": "long", "prompt": "Greeting messages are used in everyday communication to welcome or acknowledge others. Write a simple greeting message:"}
+
+{"prompt_id": 43, "category": "structured", "length": "short", "prompt": "Name a continent:"}
+{"prompt_id": 44, "category": "structured", "length": "long", "prompt": "The Earth is divided into several continents, each with unique geography and culture. Name a continent:"}
+
+{"prompt_id": 45, "category": "structured", "length": "short", "prompt": "Give an example of a verb:"}
+{"prompt_id": 46, "category": "structured", "length": "long", "prompt": "Verbs are words that describe actions or states. Give an example of a verb:"}
+
+{"prompt_id": 47, "category": "structured", "length": "short", "prompt": "List two types of vehicles:"}
+{"prompt_id": 48, "category": "structured", "length": "long", "prompt": "Vehicles are used for transporting people or goods. List two types of vehicles:"}
+
+{"prompt_id": 49, "category": "structured", "length": "short", "prompt": "Write an example of a question:"}
+{"prompt_id": 50, "category": "structured", "length": "long", "prompt": "Questions are sentences that seek information. Write an example of a question:"}
+
+{"prompt_id": 51, "category": "open_ended", "length": "short", "prompt": "Explain why the sky is blue."}
+{"prompt_id": 52, "category": "open_ended", "length": "long", "prompt": "The Earth's atmosphere interacts with sunlight in complex ways, affecting how we perceive color. Explain why the sky is blue."}
+
+{"prompt_id": 53, "category": "open_ended", "length": "short", "prompt": "Describe the process of photosynthesis."}
+{"prompt_id": 54, "category": "open_ended", "length": "long", "prompt": "Plants use sunlight, carbon dioxide, and water to produce energy and oxygen. This biological process is essential to life on Earth. Describe the process of photosynthesis."}
+
+{"prompt_id": 55, "category": "open_ended", "length": "short", "prompt": "What are the causes of World War I?"}
+{"prompt_id": 56, "category": "open_ended", "length": "long", "prompt": "World War I was a global conflict that began in 1914 and involved many of the world's great powers. It was influenced by political, economic, and social factors. What are the causes of World War I?"}
+
+{"prompt_id": 57, "category": "open_ended", "length": "short", "prompt": "Write a short story about a lost dog."}
+{"prompt_id": 58, "category": "open_ended", "length": "long", "prompt": "Stories often explore themes of loss, hope, and reunion. Write a short story about a lost dog."}
+
+{"prompt_id": 59, "category": "open_ended", "length": "short", "prompt": "Explain how a computer works."}
+{"prompt_id": 60, "category": "open_ended", "length": "long", "prompt": "Computers are machines that process information using hardware and software. They perform calculations and manage data. Explain how a computer works."}
+
+{"prompt_id": 61, "category": "open_ended", "length": "short", "prompt": "Why is exercise important?"}
+{"prompt_id": 62, "category": "open_ended", "length": "long", "prompt": "Maintaining physical health involves regular activity and proper nutrition. Exercise plays a key role in overall well-being. Why is exercise important?"}
+
+{"prompt_id": 63, "category": "open_ended", "length": "short", "prompt": "Describe the importance of education."}
+{"prompt_id": 64, "category": "open_ended", "length": "long", "prompt": "Education plays a central role in personal and societal development. It helps individuals acquire knowledge and skills. Describe the importance of education."}
+
+{"prompt_id": 65, "category": "open_ended", "length": "short", "prompt": "Explain the concept of gravity."}
+{"prompt_id": 66, "category": "open_ended", "length": "long", "prompt": "Gravity is a fundamental force that affects all objects with mass. It plays a key role in the structure of the universe. Explain the concept of gravity."}
+
+{"prompt_id": 67, "category": "open_ended", "length": "short", "prompt": "What is climate change?"}
+{"prompt_id": 68, "category": "open_ended", "length": "long", "prompt": "Climate change refers to long-term shifts in temperature and weather patterns. It is influenced by both natural processes and human activity. What is climate change?"}
+
+{"prompt_id": 69, "category": "open_ended", "length": "short", "prompt": "Explain how the internet works."}
+{"prompt_id": 70, "category": "open_ended", "length": "long", "prompt": "The internet is a global network of interconnected computers that communicate using standardized protocols. Explain how the internet works."}
+
+{"prompt_id": 71, "category": "open_ended", "length": "short", "prompt": "Describe a day at the beach."}
+{"prompt_id": 72, "category": "open_ended", "length": "long", "prompt": "A day at the beach often involves sun, sand, and water activities. People go to relax, swim, and enjoy nature. Describe a day at the beach."}
+
+{"prompt_id": 73, "category": "open_ended", "length": "short", "prompt": "Explain the benefits of reading books."}
+{"prompt_id": 74, "category": "open_ended", "length": "long", "prompt": "Reading books exposes individuals to new ideas, perspectives, and knowledge. It is a key component of lifelong learning. Explain the benefits of reading books."}
+
+{"prompt_id": 75, "category": "open_ended", "length": "short", "prompt": "What is artificial intelligence?"}
+{"prompt_id": 76, "category": "open_ended", "length": "long", "prompt": "Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think and learn. What is artificial intelligence?"}
+
+{"prompt_id": 77, "category": "open_ended", "length": "short", "prompt": "Describe how rain forms."}
+{"prompt_id": 78, "category": "open_ended", "length": "long", "prompt": "Rain is part of the Earth's water cycle and involves evaporation, condensation, and precipitation. Describe how rain forms."}
+
+{"prompt_id": 79, "category": "open_ended", "length": "short", "prompt": "Explain the importance of teamwork."}
+{"prompt_id": 80, "category": "open_ended", "length": "long", "prompt": "Teamwork involves collaboration among individuals to achieve a common goal. It is important in many areas of life, including work and sports. Explain the importance of teamwork."}
+
+{"prompt_id": 81, "category": "open_ended", "length": "short", "prompt": "What causes earthquakes?"}
+{"prompt_id": 82, "category": "open_ended", "length": "long", "prompt": "Earthquakes occur due to movements in the Earth's crust, often along fault lines. These movements release energy. What causes earthquakes?"}
+
+{"prompt_id": 83, "category": "open_ended", "length": "short", "prompt": "Explain the role of the government."}
+{"prompt_id": 84, "category": "open_ended", "length": "long", "prompt": "Governments are institutions that create and enforce laws, provide services, and maintain order in society. Explain the role of the government."}
+
+{"prompt_id": 85, "category": "open_ended", "length": "short", "prompt": "Describe the water cycle."}
+{"prompt_id": 86, "category": "open_ended", "length": "long", "prompt": "The water cycle describes how water moves through the Earth's atmosphere, land, and oceans. It includes processes like evaporation and precipitation. Describe the water cycle."}
+
+{"prompt_id": 87, "category": "open_ended", "length": "short", "prompt": "Why do we sleep?"}
+{"prompt_id": 88, "category": "open_ended", "length": "long", "prompt": "Sleep is a natural process that allows the body and mind to rest and recover. It plays a vital role in health. Why do we sleep?"}
+
+{"prompt_id": 89, "category": "open_ended", "length": "short", "prompt": "Explain the importance of clean water."}
+{"prompt_id": 90, "category": "open_ended", "length": "long", "prompt": "Access to clean water is essential for human health and survival. It is necessary for drinking, sanitation, and agriculture. Explain the importance of clean water."}
+
+{"prompt_id": 91, "category": "open_ended", "length": "short", "prompt": "Describe how plants grow."}
+{"prompt_id": 92, "category": "open_ended", "length": "long", "prompt": "Plants grow through a combination of sunlight, water, nutrients, and biological processes such as photosynthesis. Describe how plants grow."}
+
+{"prompt_id": 93, "category": "open_ended", "length": "short", "prompt": "Explain what democracy is."}
+{"prompt_id": 94, "category": "open_ended", "length": "long", "prompt": "Democracy is a system of government in which citizens have the power to make decisions, often through voting. Explain what democracy is."}
+
+{"prompt_id": 95, "category": "open_ended", "length": "short", "prompt": "What is the purpose of technology?"}
+{"prompt_id": 96, "category": "open_ended", "length": "long", "prompt": "Technology is developed to solve problems, improve efficiency, and enhance human capabilities. What is the purpose of technology?"}
+
+{"prompt_id": 97, "category": "open_ended", "length": "short", "prompt": "Describe how airplanes fly."}
+{"prompt_id": 98, "category": "open_ended", "length": "long", "prompt": "Airplanes use aerodynamic principles such as lift, thrust, drag, and gravity to stay in the air. Describe how airplanes fly."}
+
+{"prompt_id": 99, "category": "open_ended", "length": "short", "prompt": "Explain the concept of energy."}
+{"prompt_id": 100, "category": "open_ended", "length": "long", "prompt": "Energy is the capacity to do work and exists in many forms such as kinetic, potential, and thermal energy. Explain the concept of energy."}
