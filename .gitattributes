@@ -1,0 +1,6 @@
+*.py text eol=lf
+*.slurm text eol=lf
+*.sh text eol=lf
+*.txt text
+*.md text
+
